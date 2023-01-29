@@ -1,10 +1,16 @@
-import { Footer } from 'Footer'
-import { Header } from './Header'
+import Footer from './Footer'
+import { Header, NAV_ITEM_NAMES } from './Header'
+import AboutMe from './AboutMe'
+import Contact from './Contact'
+import Resume from './Resume'
+import Portfolio from './Portfolio'
+import {useState} from 'react'
 
 export default function Navigation(){
     const [currentPage, setCurrentPage] = useState('About Me');
 
     const onNavItemClick = (itemName) => {
+        console.log(itemName)
         setCurrentPage(itemName)
     }
 
@@ -23,7 +29,7 @@ export default function Navigation(){
     return(
        <div>
         <Header onNavItemClick={onNavItemClick}/>
-        <section>Current Page</section>
+        <section>{renderCurrentPage()}</section>
         <Footer />
        </div>
     )

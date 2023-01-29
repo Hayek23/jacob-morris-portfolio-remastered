@@ -17,4 +17,19 @@ export function Header({ onNavItemClick }){
             </nav>
         </div>
     )
-}
+};
+
+export const NAV_ITEM_NAMES =[
+        {
+            itemName: 'About Me'
+        },
+        {
+            itemName: 'Portfolio'
+        },
+        {
+            itemName: 'Contact'
+        },
+        {
+            itemName: 'Resume'
+        }
+    ]
