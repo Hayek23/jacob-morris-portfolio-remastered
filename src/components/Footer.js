@@ -3,11 +3,12 @@ import githubLogo from '../assets/githubLogo.png'
 
 const styles={
     footer: {
-        position: 'absolute',
+        position: 'fixed',
         bottom: '0',
         width: '100%',
         height: '2.5rem',
-        background: 'grey'
+        background: 'grey',
+        marginTop: 'auto'
     },
     img: {
         height: '35px',

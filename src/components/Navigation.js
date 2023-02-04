@@ -6,6 +6,12 @@ import Resume from './Resume'
 import Portfolio from './Portfolio'
 import {useState} from 'react'
 
+const styles = {
+    background: {
+        backgroundColor: '#d9d9d9'
+    }
+}
+
 export default function Navigation(){
     const [currentPage, setCurrentPage] = useState('About Me');
 
@@ -27,7 +33,7 @@ export default function Navigation(){
     }
 
     return(
-       <div>
+       <div style={styles.background}>
         <Header onNavItemClick={onNavItemClick}/>
         <section>{renderCurrentPage()}</section>
         <Footer />
