@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jacob-morris-portfolio-remastered/static/css/main.cd74160b.css",
+    "main.js": "/jacob-morris-portfolio-remastered/static/js/main.c8cab6d6.js",
+    "static/js/787.a1bdb9af.chunk.js": "/jacob-morris-portfolio-remastered/static/js/787.a1bdb9af.chunk.js",
+    "static/media/profilePicture.jpg": "/jacob-morris-portfolio-remastered/static/media/profilePicture.4fb6b8618f2487b2f823.jpg",
+    "static/media/marvelRedditFinderSs.png": "/jacob-morris-portfolio-remastered/static/media/marvelRedditFinderSs.a1b778601f3fbc650569.png",
+    "static/media/subTracksSs.png": "/jacob-morris-portfolio-remastered/static/media/subTracksSs.75d3e6a8906c3bcabfb6.png",
+    "static/media/linkedinLogo.png": "/jacob-morris-portfolio-remastered/static/media/linkedinLogo.703626263087e3e7c315.png",
+    "index.html": "/jacob-morris-portfolio-remastered/index.html",
+    "main.cd74160b.css.map": "/jacob-morris-portfolio-remastered/static/css/main.cd74160b.css.map",
+    "main.c8cab6d6.js.map": "/jacob-morris-portfolio-remastered/static/js/main.c8cab6d6.js.map",
+    "787.a1bdb9af.chunk.js.map": "/jacob-morris-portfolio-remastered/static/js/787.a1bdb9af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd74160b.css",
+    "static/js/main.c8cab6d6.js"
+  ]
+}
