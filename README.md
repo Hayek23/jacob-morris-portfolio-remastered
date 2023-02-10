@@ -2,18 +2,11 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
   ## Description
   This is my portfolio that displays things about me, it was created with react.
+  live: https://hayek23.github.io/jacob-morris-portfolio-remastered/
   ## Table of Contents
   [Installation](##Installation)
   [License](##License)
   [Creator](##Creator)
-  ## Installation
-  
-  ## Instructions
-  
-  ## Contribution
-  
-  ## Testing
-  
   ## License
   [MIT](https://opensource.org/licenses/MIT)
   
